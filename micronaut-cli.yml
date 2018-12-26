@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: example.micronaut.data.access
+---
+testFramework: junit
+sourceLanguage: java
